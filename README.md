@@ -30,3 +30,5 @@ Compatible with .Net >= 6.0
             Console.WriteLine($"Tokens: {encoded.Count()}, Characters: {str.Length}");
             Console.WriteLine("decoded is: \r\n" + encoder.Decode(encoded));
 ```
+![encoder1](https://user-images.githubusercontent.com/50268952/206910174-ad759cf0-cacb-4bad-a4db-c28fdc06e854.jpg)
+![encoder2](https://user-images.githubusercontent.com/50268952/206910178-372160c6-6d00-4780-b356-bd81b2ef446d.jpg)
